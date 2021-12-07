@@ -1,16 +1,15 @@
 ### November 1: Points
 
-
-
----
-#### :arrow_down: Below: 2020! :arrow_down:
-
-### November 30: A Map
-
-<img src="images/AStreet.jpg?raw=true" target="_blank"/>
-The theme of "a map" can go...anywhere. It's a very open prompt; I went for a literal interpretation. This map was inspired by one of the regular drives Taylor and I take when we visit his family in Florida and the comment he reliably makes when we pass <a href="https://www.google.com/maps/@29.8444999,-81.2770064,3a,75y,170.96h,113.62t/data=!3m6!1e1!3m4!1sC_FYRNQgfN7Bmjs4dWLAgA!2e0!7i16384!8i8192" target="_blank">this sign</a>: "hey! a street!" There are at least two A Streets in DC as well, North and South of the East Capitol Street. How many A Street segments are there? Turns out: many. Naturally, I wondered how many of these A Streets are within a quarter mile of a segment of B Street. But what is the story about the A Streets that aren't near a B St? Less instantly mappable but I am curious. Perhaps next year. 
+<img src="images/Points_v3.jpg?raw=true" target="_blank"/>
+As the people I work with are probably sick of hearing, I really enjoy reading the minutes of the Board on Geographic Names' Domestic Names Committee meetings. The meetings are well-documented and it's just fascinating to see the reasoning behind how features are named and renamed. All of these names go into (among other places) the USGS-maintained Geographic Names Information System, a platform through which you can discover all manner of toponym data. Today, that meant just taking the highest elevation feature with 'point' in the name. Conveniently, Sarah Bell had the perfect typeface for this one. 
 <br><br>
-Alternate approach, just enjoy being screamed at by this map.
+Data from the <a href="https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names" target="_blank">USGS GNIS</a> via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/high-alpine-serif-font/">High Alpine</a>.
+
+
+### November 2: Lines
+ 
+<img src="images/Lines.jpg?raw=true" target="_blank"/>
+When Rusty the red panda escaped from the National Zoo, he was on foot. He only made it about 1km from his enclosure. Just imagine, if Rusty had a SmarTrip card, he could have made it clear across the city!!! 
 <br><br>
 Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.fontspring.com/fonts/typodermic/blue-highway">Blue Highway</a>.
 
