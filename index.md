@@ -43,7 +43,7 @@ Data from <a href="https://www.openstreetmap.org/">OpenStreetMap</a> and this <a
 
 ### November 18, 2020: Landuse
 
-<img src="images/landuse.jpg?raw=true" target="_blank"/>
+<img src="images/landuse.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/landuse.jpg', '_blank');" />
 I really love the DC Open Data portal and how much information about the structure of my city is freely accessible in a variety of formats. I think about broader public perceptions of the District a lot, probably too much, and I am an insufferable windbag about correcting people who use 'DC' as shorthand for Congress, particularly when complaining about it, because the object of their metonymy has no voting representation in the body they're complaining about!!! Ahhh!!!!! So for this one I grabbed the Existing Land Use dataset from DCOD, combined a few logical categories (rivers, lakes, and canals became 'water,' for example) and put them on a map that imo looks rather nice.  As the dataset included area for each polygon, a little math - thank u Heidi, patron saint of the pivot table - gave me the percentage of the District in each category to underline the purpose of this map, which is that DC is only a small percent federal, it is a normal city, people live and work here outside of national politics. One afterthought, I would like to see similar maps of areas with a big federal or military presence, just to see how we compare.
  <br><br>
  Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
@@ -62,7 +62,7 @@ I like this map, but I like this little fact that I found while researching it e
 <br><br>
 Data from <a href="https://history.nasa.gov/"_blank">NASA</a> and <a href="https://www.naturalearthdata.com/" target="_blank">NASA</a>. Typeface is <a href="https://fonts.adobe.com/fonts/source-sans">Source Sans Variable</a>.
 
-### November 14, 2020: Climate Change
+ ### November 14, 2020: Climate Change
 
 <img src="images/14 climate.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
 For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak. This map is more detailed than it appears at first glance, clicking the image will open it larger in a new tab.
