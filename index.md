@@ -1,9 +1,8 @@
 ### November 25, 2020: COVID-19
-
-<img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
+<img src="images/Corvids-nineteen.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/Corvids-nineteen.jpg', '_blank');" />
 Theme is Corvid 19? Did I read that right?
 <br><br>
-Actually rather proud of how well this dumb joke turned out. I've done a bunch of COVID-19 mapping at work. I have not done nearly as much dumb joke mapping.
+I've done a bunch of COVID-19 mapping at work. I have not done nearly as much dumb joke mapping.
 <br><br>
 Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a>, which only had 18 corvids so I threw in a shrike as well (close enough) and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
