@@ -50,13 +50,12 @@ I really love the DC Open Data portal and how much information about the structu
  
  ### November 10, 2021: Raster
 
-<img src="images/snowcover.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
+<img src="images/snowcover.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/snowcover.jpg', '_blank');" />
 I wrote a little script in Google Earth Engine for this one, a composite of MODIS snow cover data in Afghanistan for the previous week. Deliberately left the borders off of this one, I think it's really interesting how much of the country's shape can be discerned based on landscape alone!
 <br><br>
 Data from the <a href="https://modis.gsfc.nasa.gov/" target="_blank">MODIS</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">High Alpine</a>.
 
  ### November 18, 2021: Water
-
 <img src="images/water.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/water.jpg', '_blank');" />
 I like this map, but I like this little fact that I found while researching it even more: <a href="https://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm#_ftn1">thermostabilized ham salad</a> was considered a baseline food on these missions. 
 <br><br>
@@ -71,7 +70,7 @@ Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e7
 
 ### November 4, 2020: Hexagons 
 
-<img src="images/4 hexagons.jpg?raw=true"/>
+<img src="images/4%20hexagons.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/4%20hexagons.jpg', '_blank');" />
 This one started out as something else entirely but I am simply too committed to dumb and pointless mapping.
 <br><br>
 Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>.
