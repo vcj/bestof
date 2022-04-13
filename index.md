@@ -48,7 +48,7 @@ I really love the DC Open Data portal and how much information about the structu
  <br><br>
  Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
  
- ### November 10, 2021: Raster
+### November 10, 2021: Raster
 
 <img src="images/snowcover.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/snowcover.jpg', '_blank');" />
 I wrote a little script in Google Earth Engine for this one, a composite of MODIS snow cover data in Afghanistan for the previous week. Deliberately left the borders off of this one, I think it's really interesting how much of the country's shape can be discerned based on landscape alone!
