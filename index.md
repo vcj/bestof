@@ -3,21 +3,20 @@
 <img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
 Theme is Corvid 19? Did I read that right?
 <br><br>
-Actually rather proud of how well this dumb joke turned out. I've done a bunch of COVID-19 mapping at work this year. I have not done nearly as much dumb joke mapping.
+Actually rather proud of how well this dumb joke turned out. I've done a bunch of COVID-19 mapping at work. I have not done nearly as much dumb joke mapping.
 <br><br>
 Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a>, which only had 18 corvids so I threw in a shrike as well (close enough) and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 2, 2021: Lines
 
-<img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
+<img src="images/lines.jpg?raw=true" target="_blank"/>
 Well I guess he could have gotten on the metro too but that strains plausibility, don't you think? 
 
 <br><br>
 Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.dafont.com/doctor-soos.font">Doctor Soos</a>.
 
 ### November 24, 2021: Historical
-<img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
-Well I guess he could have gotten on the metro too but that strains plausibility, don't you think? 
+<img src="images/historic.jpg?raw=true" target="_blank"/>
 As a toponym modernization watcher(?) I was delighted by Secretary of the Interior Deb Haaland's announcement that features on federal lands with a derogatory term in their name will be changed - so I mapped it. 
 
 <br><br>
@@ -25,7 +24,7 @@ Data from <a href="https://octo.dc.gov/service/dc-gis-services">USGS GNS</a> and
 
 ### November 7, 2021: Green
 
-<img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
+<img src="images/trees.jpg?raw=true" target="_blank"/>
 Trees I hate, one in particular.
 <br><br>
 Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typefaces are <a href="https://www.dafont.com/the-deep-horror.font">The Deep Horror!</a> and <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
@@ -55,14 +54,14 @@ Of course I was just saying how there are very few nitpicky cranks but some emer
  
  ### November 10, 2021: Raster
 
-<img src="images/14 climate.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
-I wrote a little script in Google Earth Engine for this one, a composite of snow cover in Afghanistan for the previous week. Deliberately left the borders off of this one, I think it's really interesting how much of the country's shape can be discerned based on landscape alone!
+<img src="images/snowcover.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
+I wrote a little script in Google Earth Engine for this one, a composite of MODIS snow cover data in Afghanistan for the previous week. Deliberately left the borders off of this one, I think it's really interesting how much of the country's shape can be discerned based on landscape alone!
 <br><br>
-Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+Data from the <a href="https://modis.gsfc.nasa.gov/" target="_blank">MODIS</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">High Alpine</a>.
 
  ### November 18, 2021: Water
 
-<img src="images/14 climate.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
+<img src="images/water.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/water.jpg', '_blank');" />
 I like this map, but I like this little fact that I found while researching it even more: <a href="https://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm#_ftn1">thermostabilized ham salad</a> was considered a baseline food on these missions. 
 <br><br>
 Data from <a href="https://history.nasa.gov/"_blank">NASA</a> and <a href="https://www.naturalearthdata.com/" target="_blank">NASA</a>. Typeface is <a href="https://fonts.adobe.com/fonts/source-sans">Source Sans Variable</a>.
@@ -79,11 +78,11 @@ Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e7
 <img src="images/4 hexagons.jpg?raw=true"/>
 This one started out as something else entirely but I am simply too committed to dumb and pointless mapping.
 <br><br>
-Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and am determined to get my money's worth so I'm sure it'll end up on a lot more of these as the month progresses.>.
+Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>.
 
 ### November 4, 2021: Hexagons 
 
-<img src="images/4 hexagons.jpg?raw=true"/>
+<img src="images/hexagons_plus.jpg?raw=true"/>
 L'Hexagon again for 2021! <br><br>
 Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is Gill Sans</a>.
 
@@ -92,11 +91,11 @@ Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and
 <img src="images/2 lines.jpg?raw=true"/>
 Rarely - only twelve times since 1953 - a storm will cross over from the Atlantic to the Pacific basin (or vice versa).
 <br><br>
-Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is of course <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 30, 2021: Meta-mapping
 
-<img src="images/2 lines.jpg?raw=true"/>
+<img src="images/metamap.jpg?raw=true"/>
 Selectively used strava on my walks/jogs this month to create the Petworth Alphabet. For all your ransom note needs! <br><br>
 Data from me!
 
