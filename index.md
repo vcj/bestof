@@ -59,7 +59,7 @@ Data from the <a href="https://modis.gsfc.nasa.gov/" target="_blank">MODIS</a> a
 <img src="images/water.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/water.jpg', '_blank');" />
 I like this map, but I like this little fact that I found while researching it even more:  <a href="https://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm#_ftn1">thermostabilized ham salad</a> was considered a baseline food on these missions. 
 <br><br>
-Data from <a href="https://history.nasa.gov/"_blank">NASA</a> and <a href="https://www.naturalearthdata.com/" target="_blank">NASA</a>. Typeface is <a href="https://fonts.adobe.com/fonts/source-sans">Source Sans Variable</a>.
+Data from <a href="https://history.nasa.gov/">NASA</a> and <a href="https://www.naturalearthdata.com/" target="_blank">NASA</a>. Typeface is <a href="https://fonts.adobe.com/fonts/source-sans">Source Sans Variable</a>.
 
 ### November 14, 2020: Climate Change
 
