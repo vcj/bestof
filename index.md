@@ -57,7 +57,7 @@ Data from the <a href="https://modis.gsfc.nasa.gov/" target="_blank">MODIS</a> a
 ### November 14, 2020: Climate Change
 
 <img src="images/14 climate.jpg?raw=true" onclick="window.open('https://raw.githubusercontent.com/vcj/vcj.github.io/master/images/14%20climate.jpg', '_blank');" />
-For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak. This map is more detailed than it appears at first glance, clicking the image will open it larger in a new tab.
+For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak. This map is more detailed than it appears at first glance, right click and open the image in a new tab to see it larger.
 <br><br>
 Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
